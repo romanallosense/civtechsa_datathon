@@ -28,8 +28,8 @@ Send questions to datathon@allosense.com
 If you want to make a SQL call:\
   Open Tableau -> To a Server -> More... -> Installed Connectors -> Amazon Athena\
 Enter the following credentials:
-- Server:               athena.us-east-1.amazonaws.com\
-- Port:                 443\
-- S3 Staging Directory: s3://allosense-2021-datathon/athena-query/\
-- Access Key ID:        AKIA5HOYAEX3HHYZ4M5A\
+- Server:               athena.us-east-1.amazonaws.com
+- Port:                 443
+- S3 Staging Directory: s3://allosense-2021-datathon/athena-query/
+- Access Key ID:        AKIA5HOYAEX3HHYZ4M5A
 - Secret Access Key:    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
