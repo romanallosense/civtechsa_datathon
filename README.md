@@ -9,10 +9,10 @@ Send questions to datathon@allosense.com
 
 # PROGRAMS
 1. Allosense - File to AWS Athena Converter.vi\
-  Prepares .csv files to be used with AWS Athena that runs standard SQL queries (https://aws.amazon.com/athena/).<br /><br />
-##### Input
+  Prepares .csv files to be used with AWS Athena that runs standard SQL queries (https://aws.amazon.com/athena/).<br />
+#### Input
   - .CSV formatted files<br /><br />
-**Output**
+#### Output
   - Updated .CSV (Timestamp Formatted)
   - Header Datatype Table .TXT (for AWS Athena)
   - Saved Header Configurations .BIN<br />
