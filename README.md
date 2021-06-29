@@ -9,20 +9,20 @@ Send questions to datathon@allosense.com
 
 # PROGRAMS
 1. Allosense - File to AWS Athena Converter.vi\
-  Prepares .csv files to be used with AWS Athena that runs standard SQL queries (https://aws.amazon.com/athena/).\
+  Prepares .csv files to be used with AWS Athena that runs standard SQL queries (https://aws.amazon.com/athena/).<br />
   Input:\
-    .CSV formatted files\
+  - .CSV formatted files\
   Output:\
-    Updated .CSV (Timestamp Formatted)\
-    Header Datatype Table .TXT (for AWS Athena)\
-    Saved Header Configurations .BIN
+  - Updated .CSV (Timestamp Formatted)\
+  - Header Datatype Table .TXT (for AWS Athena)\
+  - Saved Header Configurations .BIN
 
 2. Allosense - File to AWS NoSQL Converter.vi\
   Sample program that sends .csv file to AWS DynamoDb NoSQL database. The code requires AWS CLI to run.\
   Input:\
-    .CSV formatted files\
+  - .CSV formatted files\
   Output:\
-    Sends data to DynamoDb
+  - Sends data to DynamoDb
 
 # SQL QUERIES
 If you want to make a SQL call:\
