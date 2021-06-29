@@ -32,4 +32,4 @@ Enter the following credentials:
 - Port:                 443
 - S3 Staging Directory: s3://allosense-2021-datathon/athena-query/
 - Access Key ID:        AKIA5HOYAEX3HHYZ4M5A
-- Secret Access Key:    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
+- Secret Access Key:    
