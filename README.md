@@ -8,7 +8,7 @@ Send questions to datathon@allosense.com
 - Tableau (https://www.tableau.com/products/desktop)
 
 # PROGRAMS
-## 1. Allosense - File to AWS Athena Converter.vi\
+### 1. Allosense - File to AWS Athena Converter.vi
   Prepares .csv files to be used with AWS Athena that runs standard SQL queries (https://aws.amazon.com/athena/).<br />
 #### Input
   - .CSV formatted files<br />
@@ -17,7 +17,7 @@ Send questions to datathon@allosense.com
   - Header Datatype Table .TXT (for AWS Athena)
   - Saved Header Configurations .BIN<br /><br />
 
-## 2. Allosense - File to AWS NoSQL Converter.vi\
+### 2. Allosense - File to AWS NoSQL Converter.vi
   Sample program that sends .csv file to AWS DynamoDb NoSQL database. The code requires AWS CLI to run.<br />
 #### Input
   - .CSV formatted files<br />
